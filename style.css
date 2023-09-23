@@ -40,9 +40,18 @@ body {
     padding-right: 105px;
 }
 
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
 h2 {
     color: #213765;
+    padding-right: 5px;
 }
+
 
 button {
     height: 50px;

@@ -1,17 +1,17 @@
 const todos = [
     {
         id: 1,
-        todo: "Learn java",
+        todo: "Learn Java",
         isCompleted: false
     },
     {
         id: 2,
-        todo: "Learn php",
+        todo: "Learn Python",
         isCompleted: true
     },
     {
         id: 3,
-        todo: "Learn ruby",
+        todo: "Learn Node js",
         isCompleted: false
     }
 ]
