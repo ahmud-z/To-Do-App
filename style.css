@@ -91,6 +91,7 @@ input.checkMark {
 
 .todo-item label {
     padding-left: 10px;
+    line-break: anywhere;
 }
 
 button:hover {
